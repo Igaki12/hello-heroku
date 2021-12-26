@@ -1,1 +1,1 @@
- web: java -jar hello-world-0.0.1-SNAPSHOT.jar hello.main.HelloWorld
+mvn spring-boot:run
